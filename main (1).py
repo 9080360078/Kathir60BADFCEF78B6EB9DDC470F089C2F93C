@@ -8,3 +8,4 @@ def CheckLeap(Year):
 
 Year = int(input("Enter a Year :"))
 CheckLeap(Year)  
+
